@@ -8,7 +8,7 @@
 import Foundation
 import SwiftData
 
-@Model
+@Model // converts a swift class into a stored model managed by SwiftData
 class Wish {
     var title: String
     
