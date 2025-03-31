@@ -6,7 +6,7 @@ An iOS application designed to manage and display your personal wishlist using S
 
 - **Add Items**: Add new items to your wishlist.
 - **Remove Items**: Remove items from your wishlist.
-- **Wish Counter**: Keeps track of how many items are in your wishlist at all times.
+- **Wish Counter**: Keeps track of how many items are in your wishlist.
 - **User Interface**: A simple UI built with SwiftUI, offering a smooth user experience.
 - **Persistence**: Data persists (saves) across app sessions.
 - **SwiftData Integration**: Utilizes Apple's SwiftData framework for data handling, ensuring efficient storage and retrieval of wishlist items.
